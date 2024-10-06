@@ -14,7 +14,7 @@ This is a script built with Python and `aiohttp`
 
 1. **Clone this repository to your project:**
     ```bash
-   git clone https://github.com/JuicingNow/Proxy-Parser.git
+   git clone https://github.com/JuicingNow/proxy-parser.git
 2. **Install dependencies:**
     ```bash
    pip install aiohttp
