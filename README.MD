@@ -4,7 +4,7 @@ This is a script built with Python and `aiohttp`
 
 ## Features
 - Parse free proxies
-- Return huge list of proxies
+- Return huge list of proxies (~10k)
 - Quick parse (~8s)
 
 ## Conditions
